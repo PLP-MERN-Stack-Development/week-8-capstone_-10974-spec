@@ -1,6 +1,6 @@
 # 🏥 MediCare - Doctor Appointment System (MERN Stack)
 
-![App Screenshot](/readme-images/banner.png)<!-- Replace with your actual screenshot path -->
+![App Screenshot](/readme-images/Tosca Professional Healthca)<!-- Replace with your actual screenshot path -->
 
 A full-featured medical booking platform with patient/doctor portals, admin dashboard, and appointment management.
 
